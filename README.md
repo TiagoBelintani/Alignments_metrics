@@ -33,7 +33,7 @@ python alignment_metrics.py --dir /path/to/your/alignments --out results.tsv
 
 python alignment_metrics.py --dir ./alignments --out align_stats.tsv
 
-📦 Output
+ Output
 Main table (align_stats.tsv):
 species	n_alignments	proportion	total_sequences	files
 Nemesia	185	0.926	210	gene1.fa,gene2.fa...
